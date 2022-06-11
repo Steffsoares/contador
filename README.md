@@ -1,4 +1,4 @@
-#Contador de desenvolvido em aula da DIO
+# Contador de desenvolvido em aula da DIO
 
 Houve incrementação do código inicial para que os número negativos fiquem vermelhos
 
